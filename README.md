@@ -1,3 +1,14 @@
+# Ejercicio-Guia_11
+Ejercicio complementario de la guía 11 de la materia de DPS104
+
+Grupo de Laboratorio: G04L
+
+Alumna: Pamela Giselle Chipagua Hernández [CH160323]
+ 
+#### Ejercicio creado en Expo Snack
+#### Enlace al Snack: https://snack.expo.dev/@giselle.chipagua/arrogant-cereal
+
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
